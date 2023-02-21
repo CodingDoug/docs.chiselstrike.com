@@ -36,12 +36,6 @@ and simply push the project code to your production branch to deploy it.
 ChiselStrike's managed service handles scaling, upgrades, security, and data
 persistence. You invest nothing into traditional DevOps activities.
 
-:::note
-
-The ChiselStrike managed backend service is currently in beta.
-
-:::
-
 ## Ready to get started?
 
 - We recommend beginning with the [Getting Started tutorial][gs-tutorial], which
